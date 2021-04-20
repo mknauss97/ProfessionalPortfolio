@@ -21,16 +21,16 @@
     color: white;
 }
 /* screen changes */
-/* @media screen and (max-width: 992px) {
+ @media screen and (max-width: 992px) {
   header {
       flex-direction:column;
   }
   #image, .links {
     width: 50%;
   }
-} */
+} 
 
-/* @media screen and (max-width: 768px) {
+ @media screen and (max-width: 768px) {
     #image, .links {
         width: 100%;
     }
