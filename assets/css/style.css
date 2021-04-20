@@ -2,9 +2,14 @@
     padding: 0rem;
 
 }
+.section {
+    background-color: lemonchiffon;
+    font-size: large;
+}
 .card {
     background-color: white;
     padding: 1rem;
+    margin: 1rem;
 }
 .jumbotron {
    background-image: linear-gradient(to left, yellow, white, purple,black );
