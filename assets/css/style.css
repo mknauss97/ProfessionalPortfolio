@@ -1,0 +1,31 @@
+* {
+    padding: 0rem;
+
+}
+.card {
+    background-color: white;
+}
+.jumbotron {
+   background-image: linear-gradient(to left, yellow, white, purple,black );
+   color: white;
+}
+
+.purple {
+    background-color: purple;
+    color: white;
+}
+/* screen changes */
+/* @media screen and (max-width: 992px) {
+  header {
+      flex-direction:column;
+  }
+  #image, .links {
+    width: 50%;
+  }
+} */
+
+/* @media screen and (max-width: 768px) {
+    #image, .links {
+        width: 100%;
+    }
+} 
